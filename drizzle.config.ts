@@ -9,4 +9,4 @@ export default {
     url: env.DATABASE_URL,
   },
   tablesFilter: ["hamishbrindle.com_*"],
-} satisfies Config;
+} /* satisfies Config; */
